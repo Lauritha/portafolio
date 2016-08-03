@@ -1,3 +1,4 @@
+
 /*-------------------------------------------------------------*/
 /*------------------------HEADER-------------------------------*/
 /*-------------------------------------------------------------*/
@@ -230,9 +231,11 @@ hr{
 }
 .arriba{
 	margin: 50px 0;
+	text-align: center;
 }
 .abajo{
 	margin: 80px 0;
+	text-align: center;
 }
 
 /*-------------------------------------------------------------*/
@@ -316,7 +319,7 @@ hr{
 }
 .inferior{
 	margin-top: 0;
-	margin-bottom: 35px;
+	margin-bottom: 10px;
 }
 .superior{
 	margin-bottom: 10px;
@@ -329,7 +332,7 @@ hr{
 	background-color: #FB0432;
 	padding: 1%;
 	text-align: center;
-	margin: 90px 30px;
+	margin: 60px 30px;
 }
 .redes:hover{
 	border-radius: 50%;
@@ -366,4 +369,4 @@ footer{
 	text-align: center;
 	padding: 10px;
 }
-/*--------------------estilos de los logos--------------------*/
+/*----------------------------------------*/
